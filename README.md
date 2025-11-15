@@ -55,3 +55,4 @@ It can build itself through valgrind without any invalid memory access (of cours
 
 ### Added a github workflow to build on linux for 32/64 bits, cross compile for Windows with mingw64 also native OSX see the output at https://github.com/mingodad/cfront-3/actions for binaries
 
++1
